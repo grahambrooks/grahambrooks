@@ -61,12 +61,3 @@ Model Context Protocol Server Manager for managing MCP server workflows.
 ## Connect
 
 - GitHub: [@grahambrooks](https://github.com/grahambrooks)
-
----
-
-## GitHub Snapshot
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=grahambrooks&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats for Graham Brooks" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grahambrooks&layout=compact&hide_border=true&langs_count=8" alt="Top languages used by Graham Brooks" />
-</p>
