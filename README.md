@@ -52,10 +52,8 @@ Here are the projects worth a look.
 **Still useful, years later**
 
 - [accounting-pattern](https://github.com/grahambrooks/accounting-pattern): Martin Fowler's accounting patterns in Java
-- [intercept](https://github.com/grahambrooks/intercept): HTTP proxy library for testing web applications
 - [circuit-breaker](https://github.com/grahambrooks/circuit-breaker): The Circuit Breaker pattern in Scala
 - [zero-down](https://github.com/grahambrooks/zero-down): Zero-downtime database migration during a deploy
-- [metamorph](https://github.com/grahambrooks/metamorph): Programmatic morphing and analysis of Java source
 - [jx](https://github.com/grahambrooks/jx): Think `jq` formatting, for XML
 
 <!-- projects ends -->
