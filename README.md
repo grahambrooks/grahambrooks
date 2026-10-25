@@ -12,6 +12,7 @@ Here are the projects worth a look.
 - [forge](https://github.com/grahambrooks/forge): Architecture as one `.forge` file — diagrams, docs and linting from a single model
 - [tropism](https://github.com/grahambrooks/tropism): Dependency rules enforced across ten languages, without building or resolving
 - [bsv](https://github.com/grahambrooks/bsv): Backstage catalog visualizer
+- [backstage-catalog-graph](https://github.com/grahambrooks/backstage-catalog-graph): VS Code and JetBrains plugins that draw a `catalog-info.yaml` as a graph
 - [bsdoc](https://github.com/grahambrooks/bsdoc): Generates Backstage catalog documentation using GitHub Copilot
 - [codecity](https://github.com/grahambrooks/codecity): Multi-repository code visualization as a 3D city
 - [rv](https://github.com/grahambrooks/rv): Force-directed SVG graphs of directory structure
@@ -38,12 +39,16 @@ Here are the projects worth a look.
 **Documents & diagrams**
 
 - [adoc](https://github.com/grahambrooks/adoc): AsciiDoc CLI built to the language spec, not Asciidoctor's behaviour
+- [mmd](https://github.com/grahambrooks/mmd): Mermaid diagrams to SVG in pure Rust — no Node, no browser
 - [puml](https://github.com/grahambrooks/puml): An alternative PlantUML renderer
+- [diagram-scene](https://github.com/grahambrooks/diagram-scene): A laid-out diagram as data — the scene model shared by mmd, puml and forge
+- [infographic](https://github.com/grahambrooks/infographic): Claude Code skill and CLI for verified, animated SVG infographics
 - [mermaid-adr](https://github.com/grahambrooks/mermaid-adr): Architecture decision records carrying Mermaid diagrams
 
 **Developer experience**
 
 - [gitatlas](https://github.com/grahambrooks/gitatlas) / [gitatlas-cli](https://github.com/grahambrooks/gitatlas-cli): Status dashboard for every repository on your disk
+- [teleplot](https://github.com/grahambrooks/teleplot): Grafana-styled dashboards over Elasticsearch that render Kibana exports — one binary
 - [increment](https://github.com/grahambrooks/increment): Terminal diff with aligned side-by-side panes and move detection
 - [facts](https://github.com/grahambrooks/facts): Rust testing library — assertions read actual → expected
 - [cic](https://github.com/grahambrooks/cic): Build status at the command line
